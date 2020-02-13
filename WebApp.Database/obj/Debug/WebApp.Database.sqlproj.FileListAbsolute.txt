@@ -12,3 +12,9 @@ C:\ChrisDjangmah\VsCode\WebApp.Database\obj\Debug\Model.xml
 C:\ChrisDjangmah\VsCode\WebApp.Database\obj\Debug\refactor.xml
 C:\ChrisDjangmah\VsCode\WebApp.Database\obj\Debug\postdeploy.sql
 C:\ChrisDjangmah\VsCode\WebApp.Database\obj\Debug\predeploy.sql
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\bin\Debug\WebApp.Database.dacpac
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\bin\Debug\WebApp.Database.dll
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\bin\Debug\WebApp.Database.pdb
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\obj\Debug\WebApp.Database.sqlprojAssemblyReference.cache
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\obj\Debug\WebApp.Database.dll
+C:\ChrisDjangmah\VsCode\AspNetSolution\WebApp.Database\obj\Debug\WebApp.Database.pdb

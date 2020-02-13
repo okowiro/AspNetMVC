@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ChrisDjangmah\\VsCode\\AspNetMVC\\AspNetMVC.csproj": {}
+    "C:\\ChrisDjangmah\\VsCode\\AspNetSolution\\AspNetMVC\\AspNetMVC.csproj": {}
   },
   "projects": {
-    "C:\\ChrisDjangmah\\VsCode\\AspNetMVC\\AspNetMVC.csproj": {
+    "C:\\ChrisDjangmah\\VsCode\\AspNetSolution\\AspNetMVC\\AspNetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ChrisDjangmah\\VsCode\\AspNetMVC\\AspNetMVC.csproj",
+        "projectUniqueName": "C:\\ChrisDjangmah\\VsCode\\AspNetSolution\\AspNetMVC\\AspNetMVC.csproj",
         "projectName": "AspNetMVC",
-        "projectPath": "C:\\ChrisDjangmah\\VsCode\\AspNetMVC\\AspNetMVC.csproj",
+        "projectPath": "C:\\ChrisDjangmah\\VsCode\\AspNetSolution\\AspNetMVC\\AspNetMVC.csproj",
         "packagesPath": "C:\\Users\\odjangma\\.nuget\\packages\\",
-        "outputPath": "C:\\ChrisDjangmah\\VsCode\\AspNetMVC\\obj\\",
+        "outputPath": "C:\\ChrisDjangmah\\VsCode\\AspNetSolution\\AspNetMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
