@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\odjangma\source\repos\AspNetMVC\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\odjangma\source\repos\AspNetMVC\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\AspNetMVC.Data.AspNetMVCContext.sql" />
+</sitemanifest>

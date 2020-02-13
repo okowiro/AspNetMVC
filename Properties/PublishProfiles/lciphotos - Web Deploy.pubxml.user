@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxxb7lq4PDkqNS6PmFchqxwAAAAACAAAAAAADZgAAwAAAABAAAAByaOl4UlM70uJ8Qq00XLwdAAAAAASAAACgAAAAEAAAANil1HD6H5Evtw8C5SOaxEiAAAAABjgdbbXIN0GLbMK8CFsIrebzAH1mPQvcggpx74DJmjQhN/sCh8LWnsp/qhR1xrwot6wlpoIftoAkvU61q/HnWTGHd7MKiSF4rNydTDZD+2aMIN2k9Jl36NDMgEG6eSnP9hTFprr4wBb34jM3sEJCouL9CCGByFP+wvK6whVwfrsUAAAAauhUfoDDNyjNLj0+G/Vr6LfwBdI=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AspNetMVCContext">
+      <Value>Data Source=cioreportsrv.database.windows.net%3bInitial Catalog=GlobalAttendanceDataDB%3bUser ID=cioreportadmin%3bPassword=Founder514%3bConnect Timeout=60%3bEncrypt=True%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="AspNetMVC.Data.AspNetMVCContext">
+      <Value>Data Source=cioreportsrv.database.windows.net%3bInitial Catalog=GlobalAttendanceDataDB%3bUser ID=cioreportadmin%3bPassword=Founder514%3bConnect Timeout=60%3bEncrypt=True%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
